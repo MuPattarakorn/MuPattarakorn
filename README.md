@@ -1,8 +1,6 @@
 ## Hi, I'm Mu Pattarakorn 👋🏻
 
-👩🏻‍💻 I'm interested in <b>Frontend</b> Development.
-
-🧠 I'm currently learning <b>React.js</b>
+👩🏻‍💻 I'm <b>Frontend</b> Development.
 
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/pattarakorn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pattarakorn-suksanguan-600666260/)
 
